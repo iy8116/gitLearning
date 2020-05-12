@@ -6,5 +6,7 @@ public class Winter {
 
         //I want to see this line on github
 
+        System.out.println("Long live buro");
+
     }
 }
